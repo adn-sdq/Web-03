@@ -1,15 +1,17 @@
 # Mock Portfolio Website (Pr/6)
 
-## Description
-Mock Portfolio Website is a Static Responsive Frontend Website.
+## Overview  
+The *Mock Portfolio Website* is a static responsive frontend application designed to showcase achievements, skills, and work. It features an eye-catching UI/UX, optimized for all screen sizes, and incorporates unique design elements to differentiate it from generic portfolio websites.  
 
-## Completetion Date
-Completed in Jun 2023. 
+## Completion Date  
+June 2023  
 
-## Introduction 
-A mock portfolio website is used to portray your achievements and skills. By creating this website, the code incorporated is responsive to all screen sizes. The planned and built UI/UX is eye-catching and descriptive. The project is well-built, taking into consideration various unique design features to make it stand out from any generic static frontend website.
+## Tools and Technologies  
+HTML, CSS, JavaScript, Responsive Design, UI/UX Principles  
 
-## Contributors
-Mohammed Adnan Siddiqui 
+## Keywords  
+Static Website, Portfolio, Responsive Design, Frontend Development, UI/UX, Personal Branding  
 
-Sanjana Masam
+## Contributors  
+*Mohammed Adnan Siddiqui*  
+*Sanjana Masam*
